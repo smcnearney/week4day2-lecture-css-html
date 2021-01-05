@@ -1,0 +1,27 @@
+html {
+    font-size: 32px;
+}
+
+div {
+    margin: 16px 0 16px 0;
+}
+
+.wrapper {
+    background-color: green;
+    margin-bottom: 48px;
+}
+
+#badIdea,
+#badIdea2 {
+    background-color: gray;
+    margin-bottom: 96px;
+}
+
+.wrapper.bg-gray {
+    background-color: gray;
+    margin-bottom: 96px;
+}
+
+.wrapper .bg-pink {
+    background-color: pink;
+}
